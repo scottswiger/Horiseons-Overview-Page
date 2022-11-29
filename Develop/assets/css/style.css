@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Sets background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Sets header attributes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* Sets h1 header attributes */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Sets the color for h1 header (specifcally "seo" in Horiseons */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Sets header div attributes */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,32 +37,39 @@ body {
     font-size: 20px;
 }
 
+/* Sets header list type */
 .header div ul {
     list-style-type: none;
 }
 
+/* Sets header unordered list values */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Sets all a headers colors */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets font size for p paragraphs */
 p {
     font-size: 25px;
 }
 
+/* Sets font size for p1 paragraphs */
 p1 {
     font-size: 20px;
 }
 
-p3 {
+/* Sets font size for p2 paragraphs */
+p2 {
     font-size: 16px;
 }
 
+/* Sets image attributes for hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,22 +79,26 @@ p3 {
     background-position: center;
 }
 
+/* Sets float left class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets float right class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Sets content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Sets benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,21 +111,25 @@ p3 {
     text-align: center;
 }
 
+/* Sets benefit lead class */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets benefit brand class */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets benefit cost class */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sets benefit h3 class */
 .benefit-lead h3 {
     margin-bottom: 10px;
     font-size: 24px;
@@ -117,6 +137,7 @@ p3 {
     
 }
 
+/* Sets benefit brand h3 class */
 .benefit-brand h3 {
     margin-bottom: 10px;
     font-size: 24px;
@@ -124,30 +145,35 @@ p3 {
     
 }
 
+/* Sets benefit cost h3 class */
 .benefit-cost h3 {
     margin-bottom: 10px;
     font-size: 24px;
     text-align: center;
 }
 
+/* Sets benefit lead image class */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets benefit brand image class */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets benefit cost image class */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Sets SEO class */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -159,6 +185,7 @@ p3 {
     text-overflow: ellipsis;
 }
 
+/* Sets Online Rep class */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -169,7 +196,7 @@ p3 {
     text-align: left;
 }
 
-
+/* Sets Social Media Marketing class */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -181,33 +208,40 @@ p3 {
     text-overflow: ellipsis;
 }
 
+/* Sets SEO image class */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* Sets Online Rep image class */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* Sets Scoial Media Marketing image class */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Sets SEO h2 class */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets Online Rep h2 class */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets Social Media Marketing h2 class */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets footer class */
 .footer {
     padding: 30px;
     clear: both;
@@ -215,6 +249,7 @@ p3 {
     text-align: center;
 }
 
+/* Sets footer h2 class */
 .footer h2 {
     font-size: 20px;
 }
