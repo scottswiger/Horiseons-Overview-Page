@@ -2,9 +2,10 @@
 This is an overview webpage for Horiseons SEO services
 
 ## Topics Covered:
-Search Engine Optimization
-Online Reputation Management
-Social Media Marketing
+Services  | Benefits
+------------- | -------------
+Search Engine Optimization  | Lead Generation
+Management  | Brand Awareness
+Social Media Marketing | Cost Management
 
-
-Please follow this link to see a screenshot of the website mockup: (./Assets/01-html-css-git-homework-demo.png)
+[Please click here to see a screenshot of the website mockup:](./Assets/01-html-css-git-homework-demo.png)
